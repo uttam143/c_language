@@ -13,6 +13,6 @@ int main()
 
     //%.2f is used for displaying output upto two decimal places
     printf("Average of %d and %d is: %.2f",num1,num2,avg);
-
+    return 0;
     
 }

@@ -1,5 +1,5 @@
-Program to check if a number is palindrome or not
- * using while loop
+/*Program to check if a number is palindrome or not
+ * using while loop*/
 
 
 #include <stdio.h>
@@ -27,4 +27,6 @@ int main()
    if(reverse_num==num) 
       printf("%d is a palindrome number",num);
    else
-      
+   printf("%d is not a palindrome number",num);
+   return 0;
+}
