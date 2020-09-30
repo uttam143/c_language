@@ -19,4 +19,8 @@ int main(){
     */
    rem = num1 % num2;
 
-   
+   printf("Quotient is: %d\n", quot);
+   printf("Remainder is: %d", rem);
+
+   return 0;
+}
