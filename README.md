@@ -1,2 +1,2 @@
 # c_language
-C language codes
+C language programs
