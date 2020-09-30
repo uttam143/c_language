@@ -34,6 +34,6 @@ int fact(int num)
             k = k * i;
 	}
     }
-	return 0;
+	return k;
     
 }
