@@ -1,5 +1,5 @@
-Program to check if a number is palindrome or not
- * using while loop
+/*Program to check if a number is palindrome or not
+ * using while loop*/
 
 
 #include <stdio.h>
