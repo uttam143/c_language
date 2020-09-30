@@ -1,3 +1,5 @@
+/*program to find quotient and remainder*/
+
 #include <stdio.h>
 int main(){
    int num1, num2, quot, rem;
